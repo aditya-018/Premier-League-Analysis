@@ -6,6 +6,8 @@
 This is the analysis of Premier league dataset of the season 2018-2019.
 
 Champions-Manchester City
+
+
 Champions league : The Top 4 teams
 ->Manchester City
 ->Liverpool
@@ -13,11 +15,15 @@ Champions league : The Top 4 teams
 ->Tottenham Hotspurs
 
 Europa league : next 3 teams in the table
+
+
 ->Manchester United
 ->Arsenal
 ->Wolves
 
 Relegated: Bottom three 
+
+
 ->Cardiff City
 ->Fulham
 ->Huddersfield Town
